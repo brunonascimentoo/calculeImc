@@ -1,6 +1,6 @@
 # Calculadora IMC
 
-## Projeto criando como exercício para intensificar o aprendizado!
+## Projeto criado como exercício para intensificar o aprendizado!
 
 Para rodar a calculadora em sua máquina, basta clonar o repositório!
 
